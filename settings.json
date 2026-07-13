@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "Sv_AFKBot",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "Btnsmp.aternos.me",
     "port": 30040,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
